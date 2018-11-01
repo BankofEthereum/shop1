@@ -1368,4 +1368,4 @@ function attachEvents() {
 			}
 		})
 	})
-}
+} 
